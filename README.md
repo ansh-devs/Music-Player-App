@@ -1,5 +1,5 @@
 # Music-Player-App Using Firebase
-<p align="left"> <a href="" target="blank">Requires :<img src="https://img.shields.io/badge/API-19%2B-brightgreen" alt="ansh_devs" /></a> </p>
+<p align="left"> <a href="" target="blank" text="Req"><img src="https://img.shields.io/badge/API-19%2B-brightgreen" alt="ansh_devs" /></a> </p>
 
 ![final1](https://user-images.githubusercontent.com/73169410/103415628-0592e000-4ba9-11eb-9548-e8b59c72bfef.png)
 
